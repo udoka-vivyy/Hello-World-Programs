@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello World, " << endl;
+    cout<<"I write in "<<endl;
+    cout<<"C++";
+
+    return 0;
+}
